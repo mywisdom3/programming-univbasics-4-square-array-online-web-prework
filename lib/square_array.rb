@@ -1,6 +1,6 @@
 def square_array
 counter = 0
-pets = ["Dog", "Cat", "Fish", "Bird", "Hamster"]
+numbers = [1,2,3]
  
 while pets[counter] do
   puts pets[counter]
