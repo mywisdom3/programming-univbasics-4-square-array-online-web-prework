@@ -1,4 +1,8 @@
 def square_array
-numbers = [1,2,3]
-new_number = [9,6,10,16,25]
+counter = 0
+pets = ["Dog", "Cat", "Fish", "Bird", "Hamster"]
+ 
+while pets[counter] do
+  puts pets[counter]
+  counter += 1
 end
